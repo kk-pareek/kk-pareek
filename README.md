@@ -12,7 +12,7 @@
 
 - 🏫 He is a 2021 CSE grad from Asia's largest university.
 - 💻 He is open to learn anything and work anywhere :)
-- ⚡️  He writes Simple, Short, and Sweet code to make things happen.
+- ⚡️  He writes Simple, Short, and Sweet codes to make things happen.
 - 🔭 He is currently working on python, Kubernetes, Node.js, MongoDB.
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-1596-brightgreen)](https://leetcode.com/kkpareek/)&nbsp;&nbsp;&nbsp;&nbsp;
