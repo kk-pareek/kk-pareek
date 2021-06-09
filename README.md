@@ -52,6 +52,6 @@
 <summary>Detailed Summary</summary>
 <br>
     
-![Metrics](https://metrics.lecoq.io/iamrahull?template=classic&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/kk-pareek?template=classic&config.timezone=Asia%2FCalcutta)
     
 </details>
