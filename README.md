@@ -19,7 +19,8 @@
 [![Codechef](https://cp-logo.vercel.app/codechef/kkpareek)](https://www.codechef.com/users/kkpareek)&nbsp;&nbsp;&nbsp;
 [![Codeforces](https://cp-logo.vercel.app/codeforces/kkpareek)](https://codeforces.com/profile/kkpareek)&nbsp;&nbsp;&nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1668-brightgreen)](https://auth.geeksforgeeks.org/user/kkpareek/practice/)&nbsp;&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-6🌟-brightgreen)](https://hackerrank.com/kkpareek)
+[![HackerRank](https://img.shields.io/badge/HackerRank-6🌟-brightgreen)](https://hackerrank.com/kkpareek)&nbsp;&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerEarth-Profile-brightgreen)](https://hackerearth.com/@kkpareek)&nbsp;&nbsp;&nbsp;
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
