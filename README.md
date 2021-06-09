@@ -15,7 +15,7 @@
 - ⚡️  He writes short, simple, sweet codes and make things happen.
 - 🔭 He is currently working on python, Kubernetes, Node.js, MongoDB.
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-1596-orange)](https://leetcode.com/kkpareek/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/kkpareek)](https://www.codechef.com/users/kkpareek)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/kkpareek)](https://codeforces.com/profile/kkpareek)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1668-brightgreen)](https://auth.geeksforgeeks.org/user/kkpareek/practice/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-1596-brightgreen)](https://leetcode.com/kkpareek/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/kkpareek)](https://www.codechef.com/users/kkpareek)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/kkpareek)](https://codeforces.com/profile/kkpareek)&nbsp;&nbsp;&nbsp;[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1668-brightgreen)](https://auth.geeksforgeeks.org/user/kkpareek/practice/)[![HackerRank](https://img.shields.io/badge/HackerRank-6🌟-brightgreen)](https://hackerrank.com/kkpareek)
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
