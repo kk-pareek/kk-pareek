@@ -38,7 +38,7 @@
 ![Krishan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iamrahull)
 ![Krishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamrahull&theme=github&count_private=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kkpareek&theme=github&count_private=true)
 
 <p align="center">
 <a href="https://github.com/iamrahull?tab=followers">
