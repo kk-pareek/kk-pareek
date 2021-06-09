@@ -30,13 +30,13 @@
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamrahull&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kk-pareek&theme=tokyonight&count_private=true)
 
-![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=iamrahull&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+![Krishan's github stats](https://github-readme-stats.vercel.app/api?username=kk-pareek&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahull&layout=compact&theme=tokyonight)
 
-![Siddhant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iamrahull)
-![Siddhant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
+![Krishan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iamrahull)
+![Krishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siddhant_k_code&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamrahull&theme=github&count_private=true)
 
