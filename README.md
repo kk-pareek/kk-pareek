@@ -36,7 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk-pareek&layout=compact&theme=tokyonight)
 
 ![Krishan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kk-pareek)
-![Krishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kk-pareek&layout=compact)
+![Krishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kk-pareek_k_code&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kk-pareek&theme=github&count_private=true)
 
