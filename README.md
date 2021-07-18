@@ -33,9 +33,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kk-pareek&theme=tokyonight&count_private=true)
 
 ![Krishan's github stats](https://github-readme-stats.vercel.app/api?username=kk-pareek&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahull&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kk-pareek&layout=compact&theme=tokyonight)
 
-![Krishan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iamrahull)
+![Krishan's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kk-pareek)
 ![Krishan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kk-pareek&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kk-pareek&theme=github&count_private=true)
