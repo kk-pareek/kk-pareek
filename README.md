@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kk-pareek/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
 <a href="mailto:k.k.pareek18@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 <a href="https://t.me/kkpareek"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
-<a href="https://www.instagram.com/kkpareek/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
+<a href="https://www.instagram.com/k.k.pareek/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
 <br>
 
 ![Lines of code](https://img.shields.io/badge/Hello%20World%20to%20-2124786++%20Lines%20of%20code-blue)
