@@ -1,13 +1,11 @@
 ### Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<a href="https://www.linkedin.com/in/kk-pareek/"><img src="![image](https://user-images.githubusercontent.com/62111597/139060411-22003a3a-ba3f-4c65-b4f5-7c6d8fc728c3.png)
-" width="30" height="30"></a>
-<a href="mailto:k.k.pareek18@gmail.com"><img src="![image](https://user-images.githubusercontent.com/62111597/139069469-6f80ef40-5113-4bb3-8cd3-063c71e53456.png)
-" width="30" height="30"></a>
-<a href="https://t.me/kkpareek"><img src="![image](https://user-images.githubusercontent.com/62111597/139069662-33b0a46d-4085-400a-8c91-5ed182ae857f.png)
-" width="30" height="30"></a>
-<a href="https://www.instagram.com/k.k.pareek/"><img src="![image](https://user-images.githubusercontent.com/62111597/139069799-6146d235-5ff7-48b4-b473-11e004a27adf.png)
-" width="30" height="30" /></a>
+<h3 align="left">Connect with me @</h3>
+<p align="left">
+<a href="https://twitter.com/kkpareek__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techonair1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kk-pareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpratap55" height="30" width="40" /></a>
+<a href="https://instagram.com/k.k.pareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_on_air" height="30" width="40" /></a>
+</p>
 <br>
 
 ![Lines of code](https://img.shields.io/badge/Hello%20World%20to%20-2124786++%20Lines%20of%20code-blue)
