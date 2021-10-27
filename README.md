@@ -1,9 +1,13 @@
 ### Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<a href="https://www.linkedin.com/in/kk-pareek/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a>
-<a href="mailto:k.k.pareek18@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
-<a href="https://t.me/kkpareek"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a>
-<a href="https://www.instagram.com/k.k.pareek/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" width="30" height="30" /></a>
+<a href="https://www.linkedin.com/in/kk-pareek/"><img src="![image](https://user-images.githubusercontent.com/62111597/139060411-22003a3a-ba3f-4c65-b4f5-7c6d8fc728c3.png)
+" width="30" height="30"></a>
+<a href="mailto:k.k.pareek18@gmail.com"><img src="![image](https://user-images.githubusercontent.com/62111597/139069469-6f80ef40-5113-4bb3-8cd3-063c71e53456.png)
+" width="30" height="30"></a>
+<a href="https://t.me/kkpareek"><img src="![image](https://user-images.githubusercontent.com/62111597/139069662-33b0a46d-4085-400a-8c91-5ed182ae857f.png)
+" width="30" height="30"></a>
+<a href="https://www.instagram.com/k.k.pareek/"><img src="![image](https://user-images.githubusercontent.com/62111597/139069799-6146d235-5ff7-48b4-b473-11e004a27adf.png)
+" width="30" height="30" /></a>
 <br>
 
 ![Lines of code](https://img.shields.io/badge/Hello%20World%20to%20-2124786++%20Lines%20of%20code-blue)
