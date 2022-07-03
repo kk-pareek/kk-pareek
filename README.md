@@ -13,6 +13,16 @@ I've recently deployed my new app, please find it live at [The-Fitness-Tracker.]
 [![HackerRank](https://img.shields.io/badge/HackerRank-6🌟-brightgreen)](https://hackerrank.com/kkpareek)&nbsp;&nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerEarth-Profile-brightgreen)](https://hackerearth.com/@kkpareek)&nbsp;&nbsp;&nbsp;
 
+<!-- #### I've learnt writing code in following languages:
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />   <img width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> -->
+
+<!-- #### I'm confident with:
+| Domain  | Skills  |
+| ------------ | ------------ |
+| Frontend  | `Angular`  |
+|  Backend | `Java`  `SpringBoot`  |
+|  Database | `MySQL` `MongoDB`  | -->
+
 
 <h3 align="left">We can connect @</h3>
 <p align="left">
