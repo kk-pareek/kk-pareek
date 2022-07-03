@@ -2,7 +2,7 @@
 
 I've recently deployed my new app, please find it live at [The-Fitness-Tracker.](https://kk-fitness-tracker.web.app/ "Fitness-Tracker")
 
-#### Below are my coding profiles -
+#### Below are my coding profiles:
 
 <!-- ![Lines of code](https://img.shields.io/badge/Hello%20World%20to%20-2124786++%20Lines%20of%20code-blue) -->
 
