@@ -7,7 +7,7 @@ I've recently deployed my new app, please find it live at [The-Fitness-Tracker.]
 <!-- ![Lines of code](https://img.shields.io/badge/Hello%20World%20to%20-2124786++%20Lines%20of%20code-blue) -->
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-1596-brightgreen)](https://leetcode.com/kkpareek/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Codechef](https://cp-logo.vercel.app/codechef/kkpareek)](https://www.codechef.com/users/kkpareek)&nbsp;&nbsp;&nbsp;
+[![Codechef](https://img.shields.io/badge/Codechef-1668-brightgreen)](https://www.codechef.com/users/kkpareek)&nbsp;&nbsp;&nbsp;
 [![Codeforces](https://cp-logo.vercel.app/codeforces/kkpareek)](https://codeforces.com/profile/kkpareek)&nbsp;&nbsp;&nbsp;
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1668-brightgreen)](https://auth.geeksforgeeks.org/user/kkpareek/practice/)&nbsp;&nbsp;&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-6🌟-brightgreen)](https://hackerrank.com/kkpareek)&nbsp;&nbsp;&nbsp;
