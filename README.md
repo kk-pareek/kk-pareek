@@ -26,7 +26,7 @@ I've recently deployed my new app, please find it live at [Dhyan-Aasan.](https:/
 
 <h3 align="left">We can connect @</h3>
 <p align="left">
-<a href="https://twitter.com/kkpareek__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techonair1" height="30" width="40" /></a>
+<a href="https://twitter.com/kkpareek__" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATwitter-logo.svg&psig=AOvVaw1WZ0H9R22_04p_5MnxgMyr&ust=1672562439136000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMi9juK6o_wCFQAAAAAdAAAAABAE" alt="techonair1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kk-pareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpratap55" height="30" width="40" /></a>
 <a href="https://instagram.com/k.k.pareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_on_air" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13401307/kkpareek" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="tech_on_air" height="30" width="40" /></a>
